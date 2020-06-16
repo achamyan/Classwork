@@ -1,2 +1,2 @@
-# Projects_Classwork
+Classwork
 This repository holds classwork notebooks
